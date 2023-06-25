@@ -1,1 +1,2 @@
-# fake-site
+# 現代人のITリテラシーに関して
+<h2>About</h2>
